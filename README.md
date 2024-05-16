@@ -29,6 +29,11 @@ https://application-scoring.streamlit.app
     - Streamlit (for front-end)
   ```
 
+### Examples
+![](https://github.com/Krishna2709/random-search-application-scoring-system/blob/master/images/WebPage-1.png)
+![](https://github.com/Krishna2709/random-search-application-scoring-system/blob/master/images/WebPage-2.png)
+![](https://github.com/Krishna2709/random-search-application-scoring-system/blob/master/images/WebPage-3.png)
+
 ### Prompts
 - **System Prompt**:
   ```
@@ -60,6 +65,7 @@ https://application-scoring.streamlit.app
     Please evaluate and provide a score along with feedback in the JSON object.
   """
   ```
+  
 ### Features
 ----
 - Defined Pydantic Validators for Input Validation
